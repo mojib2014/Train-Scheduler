@@ -1,0 +1,25 @@
+
+/* styling body starts here */
+body {
+    background: linear-gradient(black, white);
+  }
+
+/* header(jumbotron) style starts here */
+.jumbotron {
+    background-image: url("https://media.kasperskydaily.com/wp-content/uploads/sites/92/2015/12/06023356/train-hack-featured-1.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    font-weight: 40px;
+    margin-bottom: 0;
+}
+
+h1 {
+    opacity: 0.5;
+    color: black;
+}
+/* header(jumboron) style ends here */
+
+/* table data style starts here */
+td {
+    background: rgb(198, 203, 198);
+}
